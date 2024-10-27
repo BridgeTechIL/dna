@@ -4,7 +4,7 @@ sudo apt-get update
 sudo apt-get -y install python3.8-distutils
 wget https://bootstrap.pypa.io/get-pip.py && sudo python3 get-pip.py
 sudo DEBIAN_FRONTEND=noninteractive add-apt-repository -y ppa:deadsnakes/ppa
-sudo python3 -m pip install --yes -r requirements.txt
+sudo python3 -m pip install --no-input -r requirements.txt
 
 TABSIZE="set tabsize 4"
 TABTOSPACES="set tabstospaces"
