@@ -1,0 +1,16 @@
+pygame
+requests
+flask_socketio
+git-python
+jwt
+pyjwt
+paho-mqtt
+rpi-gpio
+rpi-rf
+retry
+imutils
+scikit-image
+oauth2client
+gcloud
+exif
+ultralytics
