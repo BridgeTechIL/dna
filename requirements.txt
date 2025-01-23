@@ -5,8 +5,6 @@ git-python
 jwt
 pyjwt
 paho-mqtt
-rpi-gpio
-rpi-rf
 retry
 imutils
 scikit-image
